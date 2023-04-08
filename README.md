@@ -8,7 +8,7 @@ there are many new methods that are being introduced such as Bidirectional Long 
 
 I used a sequence model that can perform Twitter sentiment analysis to categorize a tweet as Positive or Negative using Word2Vec and Bi-LSTM. With recurrent neural network models, I achieved an accuracy of 82% in Bi-LSTM, and we got an accuracy of 81% in the LSTM model. The RNN model’s accuracy was 79%.  
 
-# Requirements and Installation  
+## Requirements and Installation  
 
 In order to run the code, you will need the following libararies.  
 - TensorFlow   
